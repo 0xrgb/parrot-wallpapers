@@ -81,6 +81,14 @@
     <scolor>#2c001e</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+    <wallpaper deleted="false">
+    <name>Mystic Horizon</name>
+    <filename>/usr/share/backgrounds/MysticHorizon.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
   <wallpaper deleted="false">
     <name>nefelibata</name>
     <filename>/usr/share/backgrounds/nefelibata.jpg</filename>
@@ -164,6 +172,14 @@
   <wallpaper deleted="false">
     <name>space1</name>
     <filename>/usr/share/backgrounds/space.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+   <wallpaper deleted="false">
+    <name>Spectral Horizon</name>
+    <filename>/usr/share/backgrounds/SpectralHorizon.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>
