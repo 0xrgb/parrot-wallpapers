@@ -1,13 +1,13 @@
 Source: parrot-wallpapers
 Priority: optional
-Maintainer: Parrot Devel Team <parrot-devel@lists.parrotsec.org>
+Maintainer: Parrot Devel Team <team@parrotsec.org>
 Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>,
-           Lisetta "Sheireen" Ferrero <sheireen@parrotsec.org>
-Standards-Version: 3.9.8
+           s1udge <s1udge@parrotsec.org>
+Standards-Version: 4.4.0
 Section: info
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper (>= 12)
 Build-Depends-Indep: pkg-config
-Homepage: http://www.parrotsec.org/
+Homepage: http://parrotlinux.org/
 
 Package: parrot-wallpapers
 Architecture: all

@@ -1,3 +1,13 @@
+parrot-wallpapers (4.7) testing; urgency=medium
+
+  [ LulzRose ]
+  * [5fb071c] Add MythicHorizon and SpectralHorizon backgrounds by Kurt Bruggeman
+
+  [ s1udge ]
+  * Removed blurry.jpg, bottleship.jpg, carbon-glider.jpg, pirate-cubes.jpg, platinum.jpg
+
+ -- s1udge <s1udge@parrotsec.org>  Fri, 23 Aug 2019 15:56:42 +0000
+
 parrot-wallpapers (4.6) testing; urgency=medium
 
   * Add macaw-poly2 wallpaper.
